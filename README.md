@@ -1,0 +1,3 @@
+# CSS Specificity Conflict and Unexpected Styling
+
+This repository demonstrates a common issue in CSS: specificity conflicts that lead to unexpected styling outcomes, especially when inheritance and the order of selectors are involved. The example shows a situation where the styles applied are not intuitive due to how CSS cascading works.  This is a great example to illustrate the importance of understanding CSS specificity and the order of selector declaration.
