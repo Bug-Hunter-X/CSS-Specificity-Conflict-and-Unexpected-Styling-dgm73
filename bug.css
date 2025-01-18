@@ -1,0 +1,1 @@
+The following CSS code snippet demonstrates a common issue where specificity conflicts can lead to unexpected styling results.  The ID selector `#myElement` is more specific than the class selector `.myClass`, but due to the inheritance, both rules are applied. However the style may not be what you expect due to the order of appearance and inheritance of cascading stylesheets.
